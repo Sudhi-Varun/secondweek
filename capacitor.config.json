@@ -1,0 +1,13 @@
+{
+  "appId": "rxdbvarun.abcd.com",
+  "appName": "RxDB-Varun",
+  "webDir": "dist",
+   "server": {
+    "androidScheme": "http",
+    "cleartext": true,
+    "allowNavigation": [
+      "http://117.192.46.245:10102/graphql","ws://117.192.46.245:10103/subscriptions"
+    ]
+  }
+  
+}

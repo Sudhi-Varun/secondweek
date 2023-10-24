@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RxDB-Varun</string>
+    <string name="title_activity_main">RxDB-Varun</string>
+    <string name="package_name">rxdbvarun.abcd.com</string>
+    <string name="custom_url_scheme">rxdbvarun.abcd.com</string>
+</resources>
