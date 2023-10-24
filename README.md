@@ -6,7 +6,7 @@
 
  2) 'client' folder in this repo contains modifications to include update function, hard coded database and ip address of test server. Replace client in the local deployment done earlier with this one.
  
- 3) 'dist' folder is the build genertated using webpack. This is a standalone self contained web resources folder, which can be ported to any stytem or server.
+ 3) 'dist' folder is the build genertated using webpack. This is a standalone self contained web resources folder, which can be ported to any system or server.
  
  4) Install capacitor (capacitor.js) at the root folder of the node.js installation.
  
@@ -16,9 +16,9 @@
  
  7) Now generate android build using 'npx cap add android'.
  
- 8) Server can be run by navigating to the folder and using 'npm run server'.
+ 8) 'Android' folder in this repo is generated using the above command. This can now be imported into Android Studio and tested. 
  
- 9) 'Android' folder in this repo is generated using the above command. This can now be imported into Android Studio and tested. 
+ 9) Server can be run by navigating to the examples\graphql folder (1st step) and using 'npm run server'.
  
  
  Output:
