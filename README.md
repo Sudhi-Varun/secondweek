@@ -16,7 +16,7 @@
  
  7) Now generate android build using 'npx cap add android'.
  
- 8) 'Android' folder in this repo is generated using the above command. This can now be imported into Android Studio and tested. 
+ 8) 'Android' (unzip android.zip) folder in this repo is generated using the above command. This can now be imported into Android Studio and tested. 
  
  9) Server can be run by navigating to the examples\graphql folder (1st step) and using 'npm run server'.
  
