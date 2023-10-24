@@ -1,7 +1,7 @@
 # secondweek
  Please follow the instructions in Readme
  
- 1)Clone the repo at the following link, and deploy on the local server.
+ 1) Clone the repo at the following link, and deploy on the local server.
  https://rxdb.info/replication-graphql.html
 
  2) 'client' folder in this repo contains modifications to include update function, hard coded database and ip address of test server. Replace client in the local deployment done earlier with this one.
